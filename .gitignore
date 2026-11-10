@@ -1,0 +1,9 @@
+# Estado personal de Obsidian (distinto para cada persona)
+.obsidian/
+
+# Papelera local de Obsidian
+.trash/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
